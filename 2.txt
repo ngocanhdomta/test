@@ -1,0 +1,2 @@
+Hi, this is file 2.txt
+Have a good day
